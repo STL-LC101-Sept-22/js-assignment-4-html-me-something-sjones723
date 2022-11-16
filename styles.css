@@ -1,1 +1,34 @@
 /* Write your CSS here! */
+
+body{
+    margin: 8px;
+    display: block;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* p{
+    background-color: beige;
+} */
+
+#mainHeading{
+    background-color: indianred;
+}
+
+.funParagraph{
+    background-color: darkseagreen;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height:auto;
+    min-width: 45%;
+}
+
+figcaption{
+    text-align: center
+}
