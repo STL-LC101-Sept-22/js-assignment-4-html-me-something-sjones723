@@ -23,12 +23,12 @@ button{
     display: block;
 }
 #mainHeading{
-    background-color:red;
+    color:red;
 }
 
 
 .funParagraph{
-    background-color: green;
+    color: green;
 }
 
 img{
