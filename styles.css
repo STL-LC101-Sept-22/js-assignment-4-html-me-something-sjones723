@@ -3,6 +3,9 @@
 body{
     margin: 8px;
     display: block;
+
+}
+article{
     max-width: 75%;
     margin-left: auto;
     margin-right: auto;
@@ -19,13 +22,13 @@ button{
     border-color: rgba(216, 80, 80, 0.458);
     display: block;
 }
-
 #mainHeading{
-    background-color: indianred;
+    background-color:red;
 }
 
+
 .funParagraph{
-    background-color: darkseagreen;
+    background-color: green;
 }
 
 img{
