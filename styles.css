@@ -7,10 +7,18 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-
-/* p{
-    background-color: beige;
-} */
+button{
+    display: inline-block;
+    color: rgba(138, 109, 109, 0.716);
+    background-color: rgba(216, 80, 80, 0.458);
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    border-radius: 3px;
+    border-color: rgba(216, 80, 80, 0.458);
+    display: block;
+}
 
 #mainHeading{
     background-color: indianred;
